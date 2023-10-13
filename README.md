@@ -1,4 +1,15 @@
 # ReactPortfolio
+Alexa Webb's Portfolio 2023
+
+# TableOfContents
+
+* [TableOfContents](#tableofcontents)
+* [Description](#description)
+* [Screenshot](#screenshot)
+* [Questions](#questions)
+* [License](#license)
+
+# Description
 M.20 Criteria:
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio
@@ -25,3 +36,36 @@ WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
+
+# Screenshot
+
+
+# Questions
+
+Email: <lexabexa3@gmail.com>
+
+Github: <https://github.com/Lexabexa>
+
+# License
+
+MIT License
+
+Copyright (c) 2023 Alexa Webb
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
